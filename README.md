@@ -1,4 +1,4 @@
-# myapp
+# Local notification App
 
 A new Flutter project.
 
